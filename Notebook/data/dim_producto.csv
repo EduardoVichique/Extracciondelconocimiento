@@ -1,0 +1,14 @@
+nombre,categoria,subcategoria,marca,precio_unitario
+"Laptop HP 15""",Electrónica,Computadoras,HP,12500
+"Monitor LG 24""",Electrónica,Monitores,LG,3800
+Teclado Logitech,Electrónica,Periféricos,Logitech,650
+Mouse Inalámbrico,Electrónica,Periféricos,Logitech,450
+Audífonos Sony,Electrónica,Audio,Sony,1200
+Silla Ergonómica,Muebles,Oficina,OfficeMax,2800
+Escritorio L,Muebles,Oficina,IKEA,4500
+Estantería Metálica,Muebles,Almacenaje,IKEA,1900
+Resma de Papel,Papelería,Insumos,Buro,180
+Bolígrafos x12,Papelería,Escritura,Pilot,95
+Carpeta Archivadora,Papelería,Organización,Leitz,120
+Licencia Office 365,Software,Productividad,Microsoft,3200
+Antivirus Plus,Software,Seguridad,Norton,850
